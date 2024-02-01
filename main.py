@@ -2,7 +2,7 @@
 FORMULATE-IT
 This app generates a list of formulas approximating a given number and then ranks them based on "interestingness".
 
-TODO: test interesting scoring functions
+TODO: gen_factor has some calculation bug, needs to be refactored and improved.
 """
 import utils
 from generator import *
